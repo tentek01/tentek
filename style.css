@@ -1,0 +1,43 @@
+.block1{
+    height: 125px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+img{
+    height: 125px;
+    width: 350px;
+   
+}
+a{
+    color: aquamarine;
+    padding: 10px;
+    font-size: 30px;
+}
+h1{
+   text-align: center;
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.box1{
+    background-color: blueviolet;
+   
+    width: 30%;
+}
+.box2{
+    background-color: blueviolet;
+    width: 30%;
+}
+.box3{
+    background-color: blueviolet;
+    width: 30%;
+}
+.body{
+    background: url(https://www.autonocion.com/wp-content/uploads/2020/07/kia-k5.jpeg);
+    background-repeat: no-repeat;
+    
+}
